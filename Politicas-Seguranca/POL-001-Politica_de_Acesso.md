@@ -14,8 +14,6 @@
 
 | \*\*Proprietário\*\* | Departamento de TI / Segurança    |
 
-
-
 ---
 
 
