@@ -6,7 +6,7 @@
 | **Título** | Política de Controle de Acesso    |
 | **Versão** | 1.0                               |
 | **Status** | Rascunho                          |
-| **Data de Aprovação** | (dd/mm/aaaa)                      |
+| **Data de Aprovação** | (15/07/2025)                      |
 | **Proprietário** | Departamento de TI / Segurança    |
 
 ## 1. Objetivo
@@ -83,3 +83,13 @@ O ciclo de vida do acesso de um usuário (solicitação, aprovação, concessão
 * **5.4. Revogação de Acesso:**
     * O processo de revogação de acesso é iniciado automaticamente pelo departamento de RH durante o processo de desligamento de um colaborador.
     * Todo o acesso do usuário aos sistemas da Vértice Consultoria deve ser removido pelo **Administrador do Sistema** no máximo até o final do último dia de trabalho do colaborador.
+
+---
+## 6. Consequências do Não Cumprimento
+
+A violação de qualquer diretriz estabelecida nesta política por parte de um colaborador ou prestador de serviço será tratada com seriedade. Ações disciplinares podem ser aplicadas de acordo com a gravidade da violação, em conformidade com as políticas do departamento de Recursos Humanos e a legislação vigente, podendo incluir advertência verbal ou escrita, suspensão, ou término do contrato de trabalho/serviço.
+
+---
+## 7. Revisão e Manutenção da Política
+
+Esta política será revisada anualmente, ou sempre que ocorrerem mudanças significativas no ambiente de negócios ou tecnológico que impactem a gestão de acessos. A responsabilidade pela revisão e atualização do documento é do **Proprietário** definido no cabeçalho desta política.
