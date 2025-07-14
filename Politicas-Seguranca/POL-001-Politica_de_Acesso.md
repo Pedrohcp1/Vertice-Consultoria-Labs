@@ -62,3 +62,24 @@ Todo acesso aos recursos da Vértice Consultoria deve seguir as seguintes diretr
 * **Acesso para Contas Não-Humanas (Contas de Serviço):**
     * Contas utilizadas por aplicações e scripts devem ter suas senhas gerenciadas de forma segura (ex: cofres de senhas), suas permissões devem ser extremamente restritas ao escopo de sua função e devem ser revisadas com maior frequência.
 
+---
+## 5. Procedimentos de Gerenciamento de Acesso
+
+O ciclo de vida do acesso de um usuário (solicitação, aprovação, concessão e revogação) seguirá os procedimentos formais descritos abaixo.
+
+* **5.1. Solicitação e Aprovação:**
+    * Toda necessidade de um novo acesso ou alteração de um acesso existente deve ser formalizada através de uma solicitação no sistema de chamados da TI, iniciada pelo gestor direto do usuário.
+    * A solicitação deve conter a justificativa de negócio, os sistemas envolvidos e o nível de permissão desejado.
+    * A aprovação da solicitação é de responsabilidade do **Proprietário do Sistema/Informação**, que avaliará se o pedido está de acordo com o Princípio do Menor Privilégio e a Necessidade de Saber.
+
+* **5.2. Concessão e Implementação:**
+    * Após o recebimento da aprovação formal, o **Administrador do Sistema** (Equipe de TI) será responsável por criar ou modificar as permissões do usuário.
+    * O acesso concedido deve ser exatamente o que foi aprovado, nem mais, nem menos. Toda concessão deve ser registrada no chamado para fins de auditoria.
+
+* **5.3. Revisão e Recertificação:**
+    * Conforme a diretriz de Revisão Periódica, os **Proprietários de Sistema** receberão, no mínimo anualmente, um relatório de todos os usuários com acesso aos seus respectivos sistemas.
+    * É de responsabilidade do Proprietário revisar e "recertificar" a necessidade de cada acesso, solicitando a remoção dos que não são mais necessários.
+
+* **5.4. Revogação de Acesso:**
+    * O processo de revogação de acesso é iniciado automaticamente pelo departamento de RH durante o processo de desligamento de um colaborador.
+    * Todo o acesso do usuário aos sistemas da Vértice Consultoria deve ser removido pelo **Administrador do Sistema** no máximo até o final do último dia de trabalho do colaborador.
