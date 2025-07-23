@@ -20,7 +20,7 @@
 
 
 
-\## 1. Objetivo
+\##1. Objetivo
 
 
 
@@ -30,7 +30,7 @@ O objetivo desta política é definir as regras para o uso aceitável dos recurs
 
 ---
 
-\## 2. Escopo
+\##2. Escopo
 
 
 
@@ -40,7 +40,7 @@ Esta política se aplica a todos os colaboradores da Vértice Consultoria, inclu
 
 ---
 
-\## 3. Diretrizes de Uso
+\##3. Diretrizes de Uso
 
 
 
@@ -48,7 +48,7 @@ Todos os usuários devem aderir às seguintes diretrizes para garantir a seguran
 
 
 
-\### 3.1. Uso Geral e Proteção de Ativos
+\###3.1. Uso Geral e Proteção de Ativos
 
 \* Os recursos de tecnologia (computadores, notebooks, celulares) são propriedade da empresa e devem ser utilizados primariamente para fins de negócio.
 
@@ -70,7 +70,7 @@ Todos os usuários devem aderir às seguintes diretrizes para garantir a seguran
 
 
 
-\### 3.3. Acesso à Internet
+\###3.3. Acesso à Internet
 
 \* O acesso à internet é uma ferramenta de trabalho. O uso para fins pessoais deve ser breve e não deve impactar a produtividade ou consumir excessivamente os recursos da rede.
 
@@ -80,7 +80,7 @@ Todos os usuários devem aderir às seguintes diretrizes para garantir a seguran
 
 
 
-\### 3.4. Instalação e Uso de Software
+\###3.4. Instalação e Uso de Software
 
 \* É proibida a instalação de qualquer software nos computadores da empresa que não tenha sido previamente aprovado e homologado pelo departamento de TI.
 
@@ -90,7 +90,7 @@ Todos os usuários devem aderir às seguintes diretrizes para garantir a seguran
 
 ---
 
-\## 4. Privacidade, Monitoramento e a LGPD
+\##4. Privacidade, Monitoramento e a LGPD
 
 
 
@@ -118,7 +118,7 @@ A existência desta política serve como notificação transparente a todos os u
 
 ---
 
-\## 5. Consequências do Não Cumprimento
+\##5. Consequências do Não Cumprimento
 
 
 
