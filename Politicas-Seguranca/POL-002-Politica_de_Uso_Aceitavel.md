@@ -1,22 +1,24 @@
+\# Política de uso aceitável da Vértice Consultoria
+
+
+
 | Propriedade          | Valor                             |
 
 | --------------------- | --------------------------------- |
 
 | \*\*ID do Documento\*\* | POL-002                           |
 
-| \*\*Título\*\* | Política de Uso Aceitável (PUA)   |
+| \*\*Título\*\* | Política de Uso aceitável    |
 
 | \*\*Versão\*\* | 1.0                               |
 
 | \*\*Status\*\* | Rascunho                          |
 
-| \*\*Data de Aprovação\*\* | (dd/mm/aaaa)                      |
+| \*\*Data de Aprovação\*\* | (23/07/2025)                      |
 
 | \*\*Proprietário\*\* | Departamento de TI / Segurança    |
 
 
-
----
 
 \## 1. Objetivo
 
@@ -58,7 +60,7 @@ Todos os usuários devem aderir às seguintes diretrizes para garantir a seguran
 
 
 
-\### 3.2. Uso de E-mail e Comunicações
+\###3.2. Uso de E-mail e Comunicações
 
 \* O sistema de e-mail deve ser usado de forma profissional e ética. É proibido o envio de mensagens ofensivas, correntes (chain letters) ou spam.
 
