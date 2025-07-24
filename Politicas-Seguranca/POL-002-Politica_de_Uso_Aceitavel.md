@@ -14,7 +14,7 @@
 
 | \*\*Status\*\* | Rascunho                          |
 
-| \*\*Data de Aprovação\*\* | (23/07/2025)                      |
+| \*\*Data de Aprovação\*\* | (24/07/2025)                      |
 
 | \*\*Proprietário\*\* | Departamento de TI / Segurança    |
 
