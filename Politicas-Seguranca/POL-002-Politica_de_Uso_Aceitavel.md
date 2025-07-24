@@ -2,21 +2,16 @@
 
 
 
+# Política de acesso da Vértice Consultoria
+
 | Propriedade          | Valor                             |
-
 | --------------------- | --------------------------------- |
-
-| \*\*ID do Documento\*\* | POL-002                           |
-
-| \*\*Título\*\* | Política de Uso aceitável    |
-
-| \*\*Versão\*\* | 1.0                               |
-
-| \*\*Status\*\* | Rascunho                          |
-
-| \*\*Data de Aprovação\*\* | (24/07/2025)                      |
-
-| \*\*Proprietário\*\* | Departamento de TI / Segurança    |
+| **ID do Documento** | POL-002                           |
+| **Título** | Política de Uso Aceitável    |
+| **Versão** | 1.0                               |
+| **Status** | Rascunho                          |
+| **Data de Aprovação** | (24/07/2025)                      |
+| **Proprietário** | Departamento de TI / Segurança    |
 
 
 
