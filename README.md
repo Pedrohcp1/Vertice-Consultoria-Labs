@@ -61,7 +61,7 @@ Este projeto utiliza ou planeja utilizar as seguintes tecnologias:
 - [x] Definição do Perfil da Empresa Vértice Consultoria
 - [x] Criação da Política de Controle de Acesso (POL-001)
 - [x] Criação da Política de Uso Aceitável (AUP) (POL-002)
-- [ ] Criação da Política de Classificação da Informação (POL-003)
+- [x] Criação da Política de Classificação da Informação (POL-003)
 - [ ] **(Blue Team)** Criação do procedimento de Monitoramento de Rede com IDS/IPS
 - [ ] **(Blue Team)** Implementação do laboratório com Suricata e Wazuh
 - [ ] **(IAM)** Desenvolvimento de script de Onboarding/Offboarding em PowerShell
