@@ -1,4 +1,4 @@
-\# Política de uso aceitável da Vértice Consultoria
+# Política de uso aceitável da Vértice Consultoria
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-\## 1. Objetivo
+## 1. Objetivo
 
 
 
@@ -40,7 +40,7 @@ Esta política se aplica a todos os colaboradores da Vértice Consultoria, inclu
 
 ---
 
-\## 3. Diretrizes de Uso
+## 3. Diretrizes de Uso
 
 
 
@@ -48,49 +48,49 @@ Todos os usuários devem aderir às seguintes diretrizes para garantir a seguran
 
 
 
-\### 3.1. Uso Geral e Proteção de Ativos
+### 3.1. Uso Geral e Proteção de Ativos
 
-\* Os recursos de tecnologia (computadores, notebooks, celulares) são propriedade da empresa e devem ser utilizados primariamente para fins de negócio.
+* Os recursos de tecnologia (computadores, notebooks, celulares) são propriedade da empresa e devem ser utilizados primariamente para fins de negócio.
 
-\* Os usuários são responsáveis por proteger os ativos sob sua guarda. É obrigatório o uso de senhas fortes e o bloqueio de tela do computador (`Windows + L`) sempre que se ausentar da sua mesa.
+* Os usuários são responsáveis por proteger os ativos sob sua guarda. É obrigatório o uso de senhas fortes e o bloqueio de tela do computador (`Windows + L`) sempre que se ausentar da sua mesa.
 
-\* As credenciais de acesso (usuário e senha) são pessoais e intransferíveis. Cada usuário é responsável pelas atividades realizadas com sua conta.
+* As credenciais de acesso (usuário e senha) são pessoais e intransferíveis. Cada usuário é responsável pelas atividades realizadas com sua conta.
 
-\* A perda ou roubo de qualquer dispositivo corporativo deve ser comunicada imediatamente ao departamento de TI.
-
-
-
-\### 3.2. Uso de E-mail e Comunicações
-
-\* O sistema de e-mail deve ser usado de forma profissional e ética. É proibido o envio de mensagens ofensivas, correntes (chain letters) ou spam.
-
-\* Tenha extremo cuidado com e-mails de remetentes desconhecidos. Não abra anexos nem clique em links suspeitos. Em caso de dúvida, contate o departamento de TI.
-
-\* O envio de e-mails em massa para clientes ou listas externas requer aprovação prévia da gestão.
+* A perda ou roubo de qualquer dispositivo corporativo deve ser comunicada imediatamente ao departamento de TI.
 
 
 
-\### 3.3. Acesso à Internet
+### 3.2. Uso de E-mail e Comunicações
 
-\* O acesso à internet é uma ferramenta de trabalho. O uso para fins pessoais deve ser breve e não deve impactar a produtividade ou consumir excessivamente os recursos da rede.
+* O sistema de e-mail deve ser usado de forma profissional e ética. É proibido o envio de mensagens ofensivas, correntes (chain letters) ou spam.
 
-\* É estritamente proibido o acesso, download ou compartilhamento de conteúdo ilegal, ofensivo, pornográfico ou que incite à violência ou discriminação.
+* Tenha extremo cuidado com e-mails de remetentes desconhecidos. Não abra anexos nem clique em links suspeitos. Em caso de dúvida, contate o departamento de TI.
 
-\* O download de arquivos da internet deve se restringir às necessidades de negócio.
+* O envio de e-mails em massa para clientes ou listas externas requer aprovação prévia da gestão.
 
 
 
-\### 3.4. Instalação e Uso de Software
+### 3.3. Acesso à Internet
 
-\* É proibida a instalação de qualquer software nos computadores da empresa que não tenha sido previamente aprovado e homologado pelo departamento de TI.
+* O acesso à internet é uma ferramenta de trabalho. O uso para fins pessoais deve ser breve e não deve impactar a produtividade ou consumir excessivamente os recursos da rede.
 
-\* A utilização de software pirata ou não licenciado é estritamente proibida e sujeita às penalidades da lei.
+* É estritamente proibido o acesso, download ou compartilhamento de conteúdo ilegal, ofensivo, pornográfico ou que incite à violência ou discriminação.
+
+* O download de arquivos da internet deve se restringir às necessidades de negócio.
+
+
+
+### 3.4. Instalação e Uso de Software
+
+* É proibida a instalação de qualquer software nos computadores da empresa que não tenha sido previamente aprovado e homologado pelo departamento de TI.
+
+* A utilização de software pirata ou não licenciado é estritamente proibida e sujeita às penalidades da lei.
 
 
 
 ---
 
-\## 4. Privacidade, Monitoramento e a LGPD
+## 4. Privacidade, Monitoramento e a LGPD
 
 
 
@@ -102,13 +102,13 @@ Em conformidade com a Lei Geral de Proteção de Dados (LGPD) e outras legislaç
 
 
 
-\* Garantir a segurança dos sistemas e a integridade da rede;
+* Garantir a segurança dos sistemas e a integridade da rede;
 
-\* Prevenir o vazamento de informações confidenciais e de propriedade da empresa e de seus clientes;
+* Prevenir o vazamento de informações confidenciais e de propriedade da empresa e de seus clientes;
 
-\* Assegurar o cumprimento desta e de outras políticas corporativas;
+* Assegurar o cumprimento desta e de outras políticas corporativas;
 
-\* Realizar auditorias de segurança e conformidade.
+* Realizar auditorias de segurança e conformidade.
 
 
 
@@ -118,7 +118,7 @@ A existência desta política serve como notificação transparente a todos os u
 
 ---
 
-\## 5. Consequências do Não Cumprimento
+## 5. Consequências do Não Cumprimento
 
 
 
