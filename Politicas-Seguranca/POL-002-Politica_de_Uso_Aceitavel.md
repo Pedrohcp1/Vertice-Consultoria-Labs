@@ -1,9 +1,5 @@
 # Política de uso aceitável da Vértice Consultoria
 
-
-
-# Política de acesso da Vértice Consultoria
-
 | Propriedade          | Valor                             |
 | --------------------- | --------------------------------- |
 | **ID do Documento** | POL-002                           |
