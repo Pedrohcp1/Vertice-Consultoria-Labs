@@ -35,8 +35,8 @@ Para dar contexto a todos os artefatos aqui presentes, foi definido o seguinte p
 * `📁 IAM-Scripts/`
     * (Em planejamento) Scripts de automação em PowerShell para tarefas de IAM, como onboarding e offboarding de funcionários.
 
-* `📁 GPO-Lab/`
-    * (Em planejamento) Documentação e evidências da implementação de Políticas de Grupo (GPOs) para reforçar as políticas de segurança no Active Directory.
+* `📁 Active-Directory-Lab`
+    * (Em processo) Documentação e evidências da implementação de Políticas de Grupo (GPOs) para reforçar as políticas de segurança no Active Directory.
 
 * `📁 Lab-BlueTeam/`
     * (Em planejamento) Artefatos e documentação dos estudos práticos de Blue Team e SOC, incluindo a implementação de ferramentas como Wazuh, Suricata e Snort em ambiente de laboratório.
