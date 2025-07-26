@@ -31,6 +31,7 @@ Para dar contexto a todos os artefatos aqui presentes, foi definido o seguinte p
     * Contém os documentos de Governança, Risco e Conformidade (GRC). É a base teórica que guia as implementações técnicas.
     * **POL-001:** Política de Controle de Acesso.
     * **POL-002:** Política de Uso Aceitável (PUA/AUP).
+    * **POL-003:** Política de Classificação da Informação.
 
 * `📁 IAM-Scripts/`
     * (Em planejamento) Scripts de automação em PowerShell para tarefas de IAM, como onboarding e offboarding de funcionários.
